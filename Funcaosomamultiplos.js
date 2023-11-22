@@ -8,4 +8,4 @@ function somaMultiplosDeTresOuCinco(numero) {
     return soma;
   }
 
-console.log(somaMultiplosDeTresOuCinco(20));
+console.log(somaMultiplosDeTresOuCinco(10));
